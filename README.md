@@ -1,0 +1,1 @@
+A telegram bot that will aid in your learning struggles when it comes to English. With it, you can look up words, check your grammar by providing a sentence, play a game where you have to translate text that the bot generates with the help of AI.
